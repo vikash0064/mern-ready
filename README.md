@@ -26,16 +26,8 @@ One command. Full-stack MERN with **Tailwind CSS v4**, JWT Auth, Mongoose, Axios
 
 ## 🛠️ Quick Start
 
-You can run it directly with `npx` (recommended) or install it via `npm`.
-
-### Option 1: Run once with npx
 ```bash
 npx mern-ready my-app
-```
-
-### Option 2: Install via npm
-```bash
-npm i mern-ready
 ```
 
 ## 📂 Project Structure
