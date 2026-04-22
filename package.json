@@ -1,6 +1,6 @@
 {
   "name": "mern-ready",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "One command. Full-stack MERN with Tailwind v4, JWT Auth, Mongoose, Axios — everything wired.",
   "type": "module",
   "bin": {

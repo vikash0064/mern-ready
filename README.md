@@ -35,7 +35,7 @@ npx mern-ready my-app
 
 ### Option 2: Install via npm
 ```bash
-npm install mern-ready
+npm i mern-ready
 ```
 
 ## 📂 Project Structure
