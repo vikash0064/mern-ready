@@ -1,0 +1,54 @@
+{
+  "name": "mern-ready",
+  "version": "1.0.7",
+  "description": "One command. Full-stack MERN with Tailwind v4, JWT Auth, Mongoose, Axios — everything wired.",
+  "type": "module",
+  "bin": {
+    "mern-ready": "bin/mern.js",
+    "mern": "bin/mern.js"
+  },
+  "scripts": {
+    "test": "node bin/mern.js test-app"
+  },
+  "files": [
+    "bin/",
+    "lib/"
+  ],
+  "keywords": [
+    "mern",
+    "mern-stack",
+    "mern-ready",
+    "scaffold",
+    "cli",
+    "create-mern-app",
+    "react",
+    "express",
+    "mongodb",
+    "tailwind",
+    "tailwindcss-v4",
+    "jwt-auth",
+    "boilerplate",
+    "starter",
+    "production-ready",
+    "fast-mern",
+    "mern-cli"
+  ],
+  "author": "vikash0064 <https://github.com/vikash0064>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikash0064/mern-ready.git"
+  },
+  "homepage": "https://mern.dev",
+  "bugs": {
+    "url": "https://github.com/vikash0064/mern-ready/issues"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0",
+    "ora": "^8.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
